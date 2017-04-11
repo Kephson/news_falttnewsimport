@@ -1,0 +1,19 @@
+{
+	"name": "renolit/news-falttnewsimport",
+	"type": "typo3-cms-extension",
+	"description": "Importer of ext:fal_ttnews file references to ext:news",
+	"homepage": "https://github.com/Kephson/news_falttnewsimport",
+	"license": "GPL-2.0+",
+	"keywords": ["TYPO3 CMS"],
+	"require": {
+		"typo3/cms-core": ">=7.6.0,<8.9.99",
+		"georgringer/news": ">=3.0.0",
+		"beechit/news-ttnewsimport": ">=2.0.0"
+	},
+	"autoload": {
+		"psr-4": {
+			"RENOLIT\\NewsFalttnewsimport\\": "Classes"
+		}
+	}
+}
+

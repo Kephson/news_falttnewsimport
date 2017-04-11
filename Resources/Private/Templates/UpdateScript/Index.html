@@ -1,0 +1,15 @@
+<f:layout name="Backend"/>
+
+<f:section name="Content">
+    <f:render partial="FlashMessages"/>
+
+    <form action="{formAction}" method="POST">
+        <f:form.hidden name="move-references" value="1"/>
+        <p>
+            Move file references from tt_news to news
+        </p>
+        <f:form.button class="btn btn-default btn-sm">
+            Start
+        </f:form.button>
+    </form>
+</f:section>
