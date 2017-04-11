@@ -1,4 +1,4 @@
-TYPO3 extension "news_news_falttnewsimport"
+TYPO3 extension "news_falttnewsimport"
 ===================================
 
 This extension imports file and media references from `EXT:fal_ttnews` to `EXT:news`.
