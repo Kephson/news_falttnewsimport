@@ -19,16 +19,17 @@ $EM_CONF[$_EXTKEY] = array(
 	'uploadfolder' => false,
 	'createDirs' => '',
 	'clearCacheOnLoad' => 1,
-	'version' => '1.0.0',
+	'version' => '1.0.1',
 	'constraints' =>
 	array(
 		'depends' =>
 		array(
-			'typo3' => '7.6.0-8.99.99',
-			'php' => '5.3.0-0.0.0',
-			'news' => '3.0.0',
-			'tt_news' => '7.6.0-7.99.99',
+			'typo3' => '6.2.0-8.99.99',
+			'php' => '5.3.0-7.1.99',
+			'news' => '3.0.0-6.99.99',
+			'tt_news' => '3.5.0-7.99.99',
 			'fal_ttnews' => '0.0.1-1.99.99',
+			'news_ttnewsimport' => '2.0.0-2.99.99',
 		),
 		'conflicts' =>
 		array(

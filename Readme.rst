@@ -5,10 +5,10 @@ This extension imports file and media references from `EXT:fal_ttnews` to `EXT:n
 
 **Requirements**
 
-* TYPO3 CMS >= 7.6
-* Ext:news >= 3.0
+* TYPO3 CMS >= 6.2.0
+* Ext:news >= 3.0.0
 * Ext:news_ttnewsimport >= 2.0.0
-* Ext:tt_news >= 7.6
+* Ext:tt_news >= 3.5
 * Ext:fal_ttnews >= 0.0.1 (https://typo3.org/extensions/repository/view/fal_ttnews or https://github.com/Kephson/fal_ttnews)
 
 **License**

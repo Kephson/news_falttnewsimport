@@ -23,7 +23,8 @@ Features
 Requirements
 ------------
 
-- TYPO3 CMS >= 7.6
+- TYPO3 CMS >= 6.2.0
 - Ext:news >= 3.0
-- Ext:News >= 3.0
-- Ext:News >= 3.0
+- Ext:tt_news >= 3.5.0
+- Ext:fal_ttnews >= 0.0.1
+- Ext:news_ttnewsimport >= 2.0.0
